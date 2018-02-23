@@ -1,0 +1,11 @@
+{
+  "name": "ramdatutorial",
+  "version": "1.0.0",
+  "description": "source files for a ramda tutorial",
+  "main": "index.js",
+  "author": "James Moore",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.25.0"
+  }
+}
