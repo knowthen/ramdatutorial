@@ -6,6 +6,7 @@
   "author": "James Moore",
   "license": "ISC",
   "dependencies": {
-    "ramda": "^0.25.0"
+    "ramda": "^0.25.0",
+    "text-table": "^0.2.0"
   }
 }
